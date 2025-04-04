@@ -1,5 +1,6 @@
 # RespiratoryMonitor
-## This project aims to Design and implement a system for monitoring respiratory parameters using *STM32 microcontroler*, *MS5837_30BA pressure and temperature sensor*, *BH1792GLC heart rate sensor* and *XENSIVTM_PAS_CO2_1.5 CO2 sesnor*. The project key goals are:
+## This project aims to Design and implement a system for monitoring respiratory parameters using *STM32 microcontroler*, *MS5837_30BA pressure and temperature sensor*, *BH1792GLC heart rate sensor* and *XENSIVTM_PAS_CO2_1.5 CO2 sesnor*.
+## The project's key goals are:
   * Airflow (detection of breathing through the nose/mouth).
   * Pressure (analysis of the strength and depth of the breath).
   * ECG (analysis of heart rate variability – HRV).
