@@ -1,5 +1,5 @@
 # RespiratoryMonitor
-## This project aims to Design and implement a system for monitoring respiratory parameters using *STM32 microcontroler*, *MS5837_30BA pressure and temperature sensor*, *AD8232 heart rate sensor* and *SCD41-D-R2 sesnor*.
+## This project aims to design and implement a system for monitoring respiratory parameters using *STM32 microcontroler*, *MS5837_30BA pressure and temperature sensor*, *AD8232 heart rate sensor* and *SCD41-D-R2 CO2 sesnor*.
 ## The project's key goals are:
   * Airflow (detection of breathing through the nose/mouth).
   * Pressure (analysis of the strength and depth of the breath).
